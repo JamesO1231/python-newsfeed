@@ -1,7 +1,8 @@
 character_name = 'Bob'
 character_hobby = 'skateboard'
-character_age = '10'
+character_age = 10
 character_dream = 'skate'
+is_male = False
 print('There once was a man named ' + character_name + ", ")
 print('He loved to ride his ' + character_hobby + ', ')
 
