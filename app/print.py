@@ -1,2 +1,5 @@
 phrase = 'Skate Party'
-print(phrase.upper().isupper())
+print(phrase.index('S'))
+
+phrase = 'Elephant Party'
+print(phrase.replace('Elephant', 'Lizard'))
