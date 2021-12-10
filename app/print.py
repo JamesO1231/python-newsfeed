@@ -1,4 +1,2 @@
-print('   /|')
-print('  / |')
-print(' /  |')
-print('/___|')
+
+print('Skate\nParty')
